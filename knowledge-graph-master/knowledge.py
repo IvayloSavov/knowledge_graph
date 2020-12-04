@@ -43,3 +43,4 @@ if __name__ == '__main__':
     graph = KnowledgeGraph('python')
     print(graph.nodes)
     print(graph.edges)
+
